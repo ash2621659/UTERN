@@ -1,0 +1,3 @@
+python "C:\Users\harje\Documents\Dropbox\phd 2024_onwards\aashna\mediapipe_mat.py" "C:\Users\harje\Documents\Dropbox\phd 2024_onwards\aashna\frame_0.jpg" "C:\Users\harje\Documents\Dropbox\phd 2024_onwards\aashna\cords.txt"
+
+python [path to script] [path to image] [path to text file]
