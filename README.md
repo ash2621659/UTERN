@@ -1,3 +1,5 @@
+## Experimental setup:
+The experimental framework is implemented in MATLAB 2024b 
 ## Dataset and Feature Descriptions:
 ### Visual Features (128):
 Stored in the directory video_features_128. These features are extracted using the VGGFace network, pre-trained and optimized on the AffectNet dataset.
@@ -28,5 +30,5 @@ Trains all models, performs CCA-based feature alignment, and conducts testing.
 Optimizes the weights for the three models using Genetic Algorithm (GA).
 
 ## Features: 
-Preextracted auddio and visual features are available to download and use at:  https://livewarwickac-my.sharepoint.com/:f:/g/personal/u2066241_live_warwick_ac_uk/Ep_IfUnTbexOljsZ9ptTMw0BAy-33sHsNgo_QgzPqTdoXA?e=U2xnGc
-The experimental framework is implemented in MATLAB
+Pre-extracted auddio and visual features for the CREMA-D dataset are available to download and use at:  https://livewarwickac-my.sharepoint.com/:f:/g/personal/u2066241_live_warwick_ac_uk/Ep_IfUnTbexOljsZ9ptTMw0BAy-33sHsNgo_QgzPqTdoXA?e=U2xnGc
+
